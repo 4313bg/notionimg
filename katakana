@@ -1,21 +1,8 @@
 <!DOCTYPE html>
-
 <html>
-
-   <head>
-
-      <title>HTML img Tag</title>
-
-   </head>
-
-
-
-   <body>
-
-      <img src=“/HTML/Alphabat-Katakana.png" alt=“katakana” width="200"
-
-         height="80">
-
-   </body>
-
+<title>TEST</title>
+<h1 style:"color:pink">HELLO</h1>
+<body>
+<img src="/Users/pauziyusof/Desktop/Projects/design/Alphabat-Katakana.png"alt="katakana">
+</body>
 </html>
