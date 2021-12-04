@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+
+      <title>HTML img Tag</title>
+
+   </head>
+
+
+
+   <body>
+
+      <img src=“/HTML/Alphabat-Katakana.png" alt=“katakana” width="200"
+
+         height="80">
+
+   </body>
+
+</html>
